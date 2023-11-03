@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Lato:ital@1&family=Open+Sans&family=Passions+Conflict&display=swap');
+
+
+
+h1,h5{
+    text-align: center;
+    
+}
+#border1{
+    border:4px solid wheat
+}
+.navbar-brand{
+    font-style: italic;
+}
+ h3, h4,h5{
+    text-align: center;
+    font-style: italic;
+    padding: 10px;
+}
+.bg-color{
+    background-color: aquamarine;
+}
+#heading{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btn{
+    justify-content: center;
+}
+img{
+    border: 3px solid white;
+}
+
+.fs-6{
+    text-align: left;
+}
+
+.rows{
+    background-color: pink;
+}
+hr{
+    border: 2px solid gray;
+}
+.samp{
+    font-size: large;
+}
+.freelance-available{
+    background-color: plum;
+}
+.services{
+    background-color: lightseagreen;
+}
+.features{
+    background-color: lightcoral;
+}
+
+#corners{
+    border-radius:7cqw 70px 0px 0px;
+    border: 4px solid peru ;
+}
+
+.font{
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Passions Conflict', cursive;
+    font-weight:400px;
+    font-size:40px;
+}
+#font1{
+font-family: 'Cedarville Cursive', cursive;
+font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Passions Conflict', cursive;
+font-family: 'The Nautigal', cursive;
+}
+
+.fs-5{
+    font-family: 'Passions Conflict', cursive;
+    font-family: 'Style Script', cursive;
+    font-family: 'The Nautigal', cursive;;
+}
+#font2{
+font-style: italic;
+font-weight: 300px;
+}
+.text-deco{
+    text-decoration: none;
+    color: white;
+}
+#deco{
+  text-decoration: none;
+  color: white;
+}
+.heading{
+font-family: 'Alex Brush', cursive;
+font-family: 'Bad Script', cursive;
+font-family: 'Cedarville Cursive', cursive;
+font-family: 'Lato', sans-serif;
+font-family: 'MonteCarlo', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Passions Conflict', cursive;
+font-family: 'Skranji', cursive;
+font-family: 'Style Script', cursive;
+font-family: 'The Nautigal', cursive;
+
+    
+}
